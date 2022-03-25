@@ -31,7 +31,7 @@ essa é uma expressão regular, ou Regex, e é aí que a mágica acontece.
     /[aeiou]/gi
 
 
-O primeiro caractere (/) é chamando de delimitador, ele basicamente diz ao interpretador onde o Regex começa e termina. Qualquer coisa após o delimitador é chamada de modificador (no caso **gi**), mas a gente já chega lá. Os próximos caracteres (aeiou) são as vogais que você deseja substituir cercados por um indicador ([ ]) dos mesmos. Por fim, temos os modificadores (gi) que significam:
+O primeiro caractere (/) é chamando de delimitador, ele basicamente diz ao interpretador onde o <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/RegExp'>Regex</a> começa e termina. Qualquer coisa após o delimitador é chamada de modificador (no caso **gi**), mas a gente já chega lá. Os próximos caracteres (aeiou) são as vogais que você deseja substituir cercados por um indicador ([ ]) dos mesmos. Por fim, temos os modificadores (gi) que significam:
 
     g: global, corresponde a todas as instâncias do padrão em uma string, não apenas uma;
     i: não diferencia maiúsculas de minúsculas
