@@ -25,7 +25,7 @@ Sendo **str1** a string a ser substituída e **str2** a que vai substituir (é s
 ## Regex
 <br>
 Você também deve ter notado os caracteres estranhos na str1, ou string a ser substituída,
-essa é uma expressão regular, ou Regex, e é aí que a mágica acontece.
+essa é uma expressão regular, ou <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/RegExp'>Regex</a>, e é aí que a mágica acontece.
 
  
     /[aeiou]/gi
@@ -37,4 +37,12 @@ O primeiro caractere (/) é chamando de delimitador, ele basicamente diz ao inte
     i: não diferencia maiúsculas de minúsculas
 
 Sendo assim, utilizando **''** seu código vai substituir todas as letras **'aeiou'** da string por uma string vazia (ou seja, apagar), sendo elas minúsculas ou maiúsculas.
+
+#
+
+# Referências:
+1. <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">Desafio no Codewars</a>
+2. <a href="https://stackoverflow.com/questions/27916055/whats-the-meaning-of-gi-in-a-regex">Discussão Stack Overflow(inglês)</a>
+3. <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/RegExp'>Regex MDN Docs (recomendado)</a>
+4. <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/replace">Replace() MDN Docs (recomendado)</a>
 
