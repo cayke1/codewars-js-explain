@@ -1,7 +1,7 @@
 # TROLLS SEM VOGAIS
 ## Desafio
 
-Trolls estão atacando sua seção de comentários! Uma forma comum de lidar com essa situação é remover todas as vogais dos comentários dos trolls, neutralizando a ameaça. Sua tarefa é escrever uma função que receba uma string e retorne uma nova string com todas as vogais removidas. Por exemplo, a string "This website is for losers LOL!" se tornaria "Ths wbst s fr lsrs LL!". <b>Nota: para este kata y</b> não é considerado uma vogal.
+Trolls estão atacando sua seção de comentários! Uma forma comum de lidar com essa situação é remover todas as vogais dos comentários dos trolls, neutralizando a ameaça. Sua tarefa é escrever uma função que receba uma string e retorne uma nova string com todas as vogais removidas. Por exemplo, a string "This website is for losers LOL!" se tornaria "Ths wbst s fr lsrs LL!". **Nota: para este kata y não é considerado uma vogal.**
 
 #
 
