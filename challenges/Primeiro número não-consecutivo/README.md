@@ -46,7 +46,8 @@ Você com certeza notou esses símbolos diferentes no return, se trata de um <a 
 #
 
 # Referências:
-1. <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">Desafio no Codewars</a>
+1. <a href="https://www.codewars.com/kata/58f8a3a27a5c28d92e000144">Desafio no Codewars</a>
 2. <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Conditional_Operator'>Ternary MDN Docs (recomendado)</a>
 3. <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for">Loop For MDN Docs (recomendado)</a>
 4. <a href="https://www.youtube.com/watch?v=QVrrqgDhhu4">Diferença entre var, let e const Filipe Deschamps</a>  <b>Muito Recomendado</b>
+5. <a href="https://anothercodingblog.com/2020/02/26/daily-coding-challenge-find-the-first-non-consecutive-number-in-an-array-written-in-javascript-python-and-java/">Site utilizado como base</a>
