@@ -6,6 +6,7 @@ Essas soluções são apenas para simplificar e tentar explicar o problema, não
 
 ## Soluções Implementadas
 1. <a href="https://github.com/cayke1/codewars-js-explain/tree/main/challenges/Trolls%20Sem%20Vogais">Trolls sem Vogais || Disemvowel Trolls</a>
+2. <a href="https://github.com/cayke1/codewars-js-explain/tree/main/challenges/Primeiro%20n%C3%BAmero%20n%C3%A3o-consecutivo">Primeiro número não consecutivo || First non-consecutive number</a>
 
 
 
